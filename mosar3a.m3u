@@ -1,0 +1,34 @@
+#EXTINF:0 CUID="2278" tvg-name="IMPACT! Wrestling | US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="WWEمصارعه حره",IMPACT! Wrestling | US
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:0 CUID="2279" tvg-name="GLORY KICKBOXING TV" tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="WWEمصارعه حره",GLORY KICKBOXING TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
+#EXTINF:0 CUID="2280" tvg-name="ASXTV FIGHTS | US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1200px-AXS_TV_logo.svg.png" group-title="WWEمصارعه حره",ASXTV FIGHTS | US
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:0 CUID="2281" tvg-name="FIGHTBOX | US" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="WWEمصارعه حره",FIGHTBOX | US
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:0 CUID="2282" tvg-name="LUCHA LIBRE AAA 2 | LAT" tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="WWEمصارعه حره",LUCHA LIBRE AAA 2 | LAT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
+#EXTINF:0 CUID="2283" tvg-name="Fite | US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="WWEمصارعه حره",Fite | US
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:0 CUID="2284" tvg-name="IMPACT WRESTLING" tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="WWEمصارعه حره",IMPACT WRESTLING
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 CUID="2285" tvg-name="XFC MMA 🇺🇸" tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg" group-title="WWEمصارعه حره",XFC MMA 🇺🇸
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+#EXTINF:0 CUID="2286" tvg-name="PFL MMA 🇧🇷🇺🇸" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="WWEمصارعه حره",PFL MMA 🇧🇷🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64f6180130ab3300083d896blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:0 CUID="2287" tvg-name="Professional Fighters League 🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/ProfessionalFightersLeagueShieldLogo.png" group-title="WWEمصارعه حره",Professional Fighters League 🇺🇸
+https://ed8cc565.wurl.com/TG9jYWxOb3dfUEZMTU1BX0hMUw/playlist.m3u8?ads.wurl_channel=1309&ads.wurl_name=PFLMMA&ads.coppa=0&ads.app_bundle={app_bundle}&ads.app_name={app_name}&ads.app_store_url={app_url}&ads.did={device_ifa}&ads.ifa_type={device_id_type}&ads.dnt={dnt}&ads.device_make={device_make}&ads.device_model={device_model}&ads.device_type={rtb_device}&ads.cust_devicename={device_devicetype}&ads.ua={ua}&ads.content_id={video_id}&ads.content_title={media_title}&ads.cust_channeltype=Shows&ads.content_genre={content_genre}&ads.content_provider={content_provider}&ads.us_privacy={ccpa_us_privacy}
+#EXTINF:0 CUID="2288" tvg-name="Fite 24/7 🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="WWEمصارعه حره",Fite 24/7 🇺🇸
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62c8a2d2d774648bcc76a116.m3u8
+#EXTINF:0 CUID="2289" tvg-name="Swerve Combat 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SwerveCombat.webp" group-title="WWEمصارعه حره",Swerve Combat 🇺🇸
+https://dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8
+#EXTINF:0 CUID="2290" tvg-name="BOXINGTV" tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2022/03/boxing-tv-logo-white.png" group-title="WWEمصارعه حره",BOXINGTV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#EXTINF:0 CUID="2291" tvg-name="MFight Network 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fightnetwork.webp" group-title="WWEمصارعه حره",MFight Network 🇺🇸
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
+#EXTINF:0 CUID="2292" tvg-name="Hard Knock Fighting 🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="WWEمصارعه حره",Hard Knock Fighting 🇺🇸
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+#EXTINF:0 CUID="2293" tvg-name="Impact! Wrestling 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp" group-title="WWEمصارعه حره",Impact! Wrestling 🇺🇸
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:0 CUID="2294" tvg-name="Impact! Wrestling 🇺🇸" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp" group-title="WWEمصارعه حره",Impact! Wrestling 🇺🇸
+https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8

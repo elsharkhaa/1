@@ -1,0 +1,78 @@
+#EXTINF:0 CUID="1293" tvg-name="Rotana Cinema KSA" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA روتانا",Rotana Cinema KSA
+https://edge66.magictvbox.com/liveApple/rotana_cinema/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="1294" tvg-name="Rotana Classic" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA روتانا",Rotana Classic
+https://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="1295" tvg-name="Rotana Khalijia" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="ROTANA روتانا",Rotana Khalijia
+https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="1296" tvg-name="Rotana Clip" tvg-logo="https://bit.ly/4dCKcfY" group-title="ROTANA روتانا",Rotana Clip
+https://edge66.magictvbox.com/liveApple/rotana_clip/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="1297" tvg-name="ROTANA_AFLAMPLUS" tvg-logo="https://bit.ly/3SG2dSv" group-title="ROTANA روتانا",ROTANA_AFLAMPLUS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:0 CUID="1298" tvg-name="ROTANA CINEMA KSA+" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ROTANA روتانا",ROTANA CINEMA KSA+
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_1/chunklist.m3u8
+#EXTINF:0 CUID="1299" tvg-name="Rotana Mplus HD" tvg-logo="https://bit.ly/3HysmwD" group-title="ROTANA روتانا",Rotana Mplus HD
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c926b44e3f020008e19112/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072632-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=480862f0-a3b1-4a41-ace7-43c6c645f118
+#EXTINF:0 CUID="1300" tvg-name="AL Resala" group-title="ROTANA روتانا",AL Resala
+http://78.40.141.246:8005/play/a00a
+#EXTINF:0 CUID="1301" tvg-name="LBC SAT" group-title="ROTANA روتانا",LBC SAT
+http://78.40.141.246:8005/play/a009
+#EXTINF:0 CUID="1302" tvg-name="Rotana Cinema EGY" group-title="ROTANA روتانا",Rotana Cinema EGY
+http://78.40.141.246:8005/play/a007
+#EXTINF:0 CUID="1303" tvg-name="Rotana Cinema EGY HD" group-title="ROTANA روتانا",Rotana Cinema EGY HD
+http://78.40.141.246:8005/play/a00b
+#EXTINF:0 CUID="1304" tvg-name="Rotana Cinema KSA" group-title="ROTANA روتانا",Rotana Cinema KSA
+http://78.40.141.246:8005/play/a008
+#EXTINF:0 CUID="1305" tvg-name="Rotana Classic" group-title="ROTANA روتانا",Rotana Classic
+http://78.40.141.246:8005/play/a005
+#EXTINF:0 CUID="1306" tvg-name="Rotana Clip" group-title="ROTANA روتانا",Rotana Clip
+http://78.40.141.246:8005/play/a003
+#EXTINF:0 CUID="1307" tvg-name="Rotana Drama" group-title="ROTANA روتانا",Rotana Drama
+http://78.40.141.246:8005/play/a006
+#EXTINF:0 CUID="1308" tvg-name="Rotana Khalijia" group-title="ROTANA روتانا",Rotana Khalijia
+http://78.40.141.246:8005/play/a004
+#EXTINF:0 CUID="1309" tvg-name="Rotana Music" group-title="ROTANA روتانا",Rotana Music
+http://78.40.141.246:8005/play/a002
+#EXTINF:0 CUID="1310" tvg-name="Rotana Cinema HD" group-title="ROTANA روتانا",Rotana Cinema HD
+http://154.54.220.67:34780/play/a06g
+#EXTINF:0 CUID="1311" tvg-name="Rotana Classic HD" group-title="ROTANA روتانا",Rotana Classic HD
+http://154.54.220.67:34780/play/a06i
+#EXTINF:0 CUID="1312" tvg-name="Rotana Clip HD" group-title="ROTANA روتانا",Rotana Clip HD
+http://154.54.220.67:34780/play/a06o
+#EXTINF:0 CUID="1313" tvg-name="Rotana Comedy HD" group-title="ROTANA روتانا",Rotana Comedy HD
+http://154.54.220.67:34780/play/a06h
+#EXTINF:0 CUID="1314" tvg-name="Rotana Drama HD" group-title="ROTANA روتانا",Rotana Drama HD
+http://154.54.220.67:34780/play/a06k
+#EXTINF:0 CUID="1315" tvg-name="Rotana Khalijeah HD" group-title="ROTANA روتانا",Rotana Khalijeah HD
+http://154.54.220.67:34780/play/a06j
+#EXTINF:0 CUID="1316" tvg-name="Rotana Music HD" group-title="ROTANA روتانا",Rotana Music HD
+http://154.54.220.67:34780/play/a06l
+#EXTINF:0 CUID="1317" tvg-name="Rotana Cinema HD" group-title="ROTANA روتانا",Rotana Cinema HD
+http://154.58.202.185:8000/play/a0b4
+#EXTINF:0 CUID="1318" tvg-name="Rotana Classic HD" group-title="ROTANA روتانا",Rotana Classic HD
+http://154.58.202.185:8000/play/a0b6
+#EXTINF:0 CUID="1319" tvg-name="Rotana Clip HD" group-title="ROTANA روتانا",Rotana Clip HD
+http://154.58.202.185:8000/play/a0bc
+#EXTINF:0 CUID="1320" tvg-name="Rotana Comedy HD" group-title="ROTANA روتانا",Rotana Comedy HD
+http://154.58.202.185:8000/play/a0b5
+#EXTINF:0 CUID="1321" tvg-name="Rotana Drama HD" group-title="ROTANA روتانا",Rotana Drama HD
+http://154.58.202.185:8000/play/a0b8
+#EXTINF:0 CUID="1322" tvg-name="Rotana Khalijeah HD" group-title="ROTANA روتانا",Rotana Khalijeah HD
+http://154.58.202.185:8000/play/a0b7
+#EXTINF:0 CUID="1323" tvg-name="Rotana Music HD" group-title="ROTANA روتانا",Rotana Music HD
+http://154.58.202.185:8000/play/a0b9
+#EXTINF:0 CUID="1324" tvg-name="Rotana Cinema EGY" group-title="ROTANA روتانا",Rotana Cinema EGY
+http://149.62.177.103:8000/play/a02t
+#EXTINF:0 CUID="1325" tvg-name="Rotana Cinema EGY HD" group-title="ROTANA روتانا",Rotana Cinema EGY HD
+http://149.62.177.103:8000/play/a02x
+#EXTINF:0 CUID="1326" tvg-name="Rotana Cinema KSA" group-title="ROTANA روتانا",Rotana Cinema KSA
+http://149.62.177.103:8000/play/a02u
+#EXTINF:0 CUID="1327" tvg-name="Rotana Classic" group-title="ROTANA روتانا",Rotana Classic
+http://149.62.177.103:8000/play/a02r
+#EXTINF:0 CUID="1328" tvg-name="Rotana Clip" group-title="ROTANA روتانا",Rotana Clip
+http://149.62.177.103:8000/play/a02p
+#EXTINF:0 CUID="1329" tvg-name="Rotana Drama" group-title="ROTANA روتانا",Rotana Drama
+http://149.62.177.103:8000/play/a02s
+#EXTINF:0 CUID="1330" tvg-name="Rotana Khalijia" group-title="ROTANA روتانا",Rotana Khalijia
+http://149.62.177.103:8000/play/a02q
+#EXTINF:0 CUID="1331" tvg-name="Rotana Music" group-title="ROTANA روتانا",Rotana Music
+http://149.62.177.103:8000/play/a02o
